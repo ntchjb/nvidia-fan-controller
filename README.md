@@ -37,6 +37,8 @@ WantedBy=multi-user.target
 
 ## Usage
 
+**Please note that the executable file need to be run with root account (or sudo)**
+
 ```
 Usage of ./nvml-fan:
   -device-index int
